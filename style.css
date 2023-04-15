@@ -1,14 +1,26 @@
 .navbar {
-  background-color: #495057;
+  background-color: #002f4c;
 }
 
 .jumbotron {
   padding-top: 6rem;
-  background-color: #ced4da;
+  background-color: #004562;
 }
 
 #projects {
-  background-color: #ced4da;
+  background-color: #00919e;
+}
+
+#about {
+  background-color: #00657f;
+}
+
+#contact {
+  background-color: #00657f;
+}
+
+#footer {
+  background-color: #002f4c;
 }
 
 section {
@@ -23,3 +35,10 @@ section {
      transform: scale(1.03);
   box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 }
+
+.color1 {color: #ffff;}
+.color2 {color: #002f4c;}
+
+body 
+{font-family: 'Poppins', sans-serif;}
+
